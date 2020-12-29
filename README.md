@@ -1,4 +1,4 @@
-# CannonPong
+![CannonPong](resources/logo.png)
 
 ## About
 CannonPong is like a 2D basketball or cup pong game. You can adjust the launch speed and angle of a ball in an attempt to shoot the ball into a cup. The cup will move around when you make it in, and your score will reset if you fail to do so.
@@ -21,7 +21,7 @@ This is what the game looks like while playing. You can see your score, tbe laun
 
 ![Game UI](game.png)
 
-## Other
+## Notice
 This game was written using the early version of the physics found in the Java 2.5D game engine, [Pseudo3D](https://github.com/jeremynoesen/Pseudo3D).
 
 This repository was originally part of an organization made for this group, but I have cloned the repo for archiving onto my account due to the organization being abandoned.
