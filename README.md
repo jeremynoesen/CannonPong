@@ -9,17 +9,8 @@ This game was written as a group project for CprE 186 at Iowa State University. 
 ## Running
 To run, simply download the jar from the release, then double click the jar file to run it. A file called score.txt will be generated in the same folder as the jar file, which will hold score data. Java 8+ is required to run this.
 
-## Screenshots
-
-### Start Screen
-This is what the game will open to. Aside from the large play button, there is a list of controls at the bottom, and high score text above that. All of these, as well as the logo, disappear when you click play.
-
-![Start Screen](start.png)
-
-### Game UI
-This is what the game looks like while playing. You can see your score, tbe launch velocity, and the launch angle. The cup (red U-shaped object) is also placed in the window. This will move when you get the ball in it.
-
-![Game UI](game.png)
+## Demonstration
+![Demonstration](demo.gif)
 
 ## Notice
 This game was written using the early version of the physics found in the Java 2.5D game engine, [Pseudo3D](https://github.com/jeremynoesen/Pseudo3D).
