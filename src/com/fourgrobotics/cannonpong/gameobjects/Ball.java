@@ -1,6 +1,6 @@
-package com.fourgrobotics.cannongame.gameobjects;
+package com.fourgrobotics.cannonpong.gameobjects;
 
-import com.fourgrobotics.cannongame.util.SpriteLoader;
+import com.fourgrobotics.cannonpong.util.SpriteLoader;
 
 import javax.swing.*;
 import java.awt.*;

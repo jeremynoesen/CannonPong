@@ -1,4 +1,4 @@
-package com.fourgrobotics.cannongame.util;
+package com.fourgrobotics.cannonpong.util;
 
 import java.io.IOException;
 import java.util.Scanner;

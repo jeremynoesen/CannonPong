@@ -1,7 +1,7 @@
-package com.fourgrobotics.cannongame.panels;
+package com.fourgrobotics.cannonpong.panels;
 
-import com.fourgrobotics.cannongame.util.Score;
-import com.fourgrobotics.cannongame.util.SpriteLoader;
+import com.fourgrobotics.cannonpong.util.Score;
+import com.fourgrobotics.cannonpong.util.SpriteLoader;
 
 import javax.swing.*;
 import java.awt.*;

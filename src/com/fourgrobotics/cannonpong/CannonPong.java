@@ -1,21 +1,21 @@
-package com.fourgrobotics.cannongame;
+package com.fourgrobotics.cannonpong;
 
-import com.fourgrobotics.cannongame.panels.GamePanel;
-import com.fourgrobotics.cannongame.panels.MenuPanel;
-import com.fourgrobotics.cannongame.util.Score;
-import com.fourgrobotics.cannongame.util.SpriteLoader;
+import com.fourgrobotics.cannonpong.panels.GamePanel;
+import com.fourgrobotics.cannonpong.panels.MenuPanel;
+import com.fourgrobotics.cannonpong.util.Score;
+import com.fourgrobotics.cannonpong.util.SpriteLoader;
 
 import javax.swing.*;
 import java.awt.*;
 import java.io.IOException;
 
 /**
- * CannonGame is a game like cup pong, but the person throwing it is replaced with a cannon. This is a game created as
+ * CannonPong is a game like cup pong, but the person throwing it is replaced with a cannon. This is a game created as
  * part of a CPR E 186 project at Iowa State University.
  *
  * @author Jeremy Noesen, Gavin Canfield, Andrew Bowen, Zachary Hirst
  */
-public class CannonGame extends JFrame {
+public class CannonPong extends JFrame {
     /**
      * scoreboard to keep scores
      */
@@ -26,7 +26,7 @@ public class CannonGame extends JFrame {
      *
      * @throws IOException
      */
-    public CannonGame() throws IOException {
+    public CannonPong() throws IOException {
         initializeUI();
     }
     
@@ -39,9 +39,9 @@ public class CannonGame extends JFrame {
         new SpriteLoader();
         
         EventQueue.invokeLater(() -> {
-            CannonGame game = null;
+            CannonPong game = null;
             try {
-                game = new CannonGame();
+                game = new CannonPong();
             } catch (IOException e) {
                 e.printStackTrace();
             }

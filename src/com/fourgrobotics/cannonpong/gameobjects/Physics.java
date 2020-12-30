@@ -1,4 +1,4 @@
-package com.fourgrobotics.cannongame.gameobjects;
+package com.fourgrobotics.cannonpong.gameobjects;
 
 import java.util.HashSet;
 import java.util.Set;

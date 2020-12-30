@@ -1,17 +1,16 @@
-package com.fourgrobotics.cannongame.panels;
+package com.fourgrobotics.cannonpong.panels;
 
-import com.fourgrobotics.cannongame.gameobjects.Ball;
-import com.fourgrobotics.cannongame.gameobjects.Cannon;
-import com.fourgrobotics.cannongame.gameobjects.Cup;
-import com.fourgrobotics.cannongame.util.KeyboardListener;
-import com.fourgrobotics.cannongame.util.Score;
-import com.fourgrobotics.cannongame.util.SpriteLoader;
+import com.fourgrobotics.cannonpong.gameobjects.Ball;
+import com.fourgrobotics.cannonpong.gameobjects.Cannon;
+import com.fourgrobotics.cannonpong.gameobjects.Cup;
+import com.fourgrobotics.cannonpong.util.KeyboardListener;
+import com.fourgrobotics.cannonpong.util.Score;
+import com.fourgrobotics.cannonpong.util.SpriteLoader;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.KeyEvent;
 import java.io.IOException;
 import java.util.Random;
 

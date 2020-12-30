@@ -1,4 +1,4 @@
-package com.fourgrobotics.cannongame.util;
+package com.fourgrobotics.cannonpong.util;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

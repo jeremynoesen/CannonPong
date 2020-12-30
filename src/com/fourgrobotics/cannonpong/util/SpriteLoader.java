@@ -1,4 +1,4 @@
-package com.fourgrobotics.cannongame.util;
+package com.fourgrobotics.cannonpong.util;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
