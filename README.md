@@ -1,4 +1,6 @@
-<div align="center" ><img src="resources/logo.png" alt="Logo" title="Logo" /></div>
+<img src="resources/logo.png" alt="Logo" title="Logo" align="right" width="333" height="104" />
+
+# CannonPong
 
 ## About
 CannonPong is like a 2D basketball or cup pong game. You can adjust the launch speed and angle of a ball in an attempt to shoot the ball into a cup. The cup will move around when you make it in, and your score will reset if you fail to do so.
